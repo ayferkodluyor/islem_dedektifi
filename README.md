@@ -38,3 +38,7 @@ Streamlit kullanılarak geliştirilen farklı arayüz sürümleridir. Analiz son
 - `uygulama.py` — ilk kontrol merkezi arayüzü
 - `dedektif_v2.py` — geliştirilmiş arayüz
 - `dedektif_v3.py` — geliştirilmiş dijital inceleme masası
+
+- ## 📸 Uygulama Görüntüleri
+![İşlem Dedektifi - Genel Görünüm](islem-dedektifi-1.jpg)
+![İşlem Dedektifi - İnceleme Ekranı](islem-dedektifi-2.jpg)
