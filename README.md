@@ -42,3 +42,7 @@ Streamlit kullanılarak geliştirilen farklı arayüz sürümleridir. Analiz son
 - ## 📸 Uygulama Görüntüleri
 ![İşlem Dedektifi - Genel Görünüm](islem-dedektifi-1.jpg)
 ![İşlem Dedektifi - İnceleme Ekranı](islem-dedektifi-2.jpg)
+
+## 🎥 Proje Videosu
+İşlem Dedektifi projesinin kısa tanıtım videosunu YouTube kanalımda izleyebilirsiniz:
+https://www.youtube.com/watch?v=DEpuei5msjI
